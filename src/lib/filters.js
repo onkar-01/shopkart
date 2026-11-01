@@ -1,4 +1,4 @@
-export const PAGE_SIZE = 12
+export const PAGE_SIZE = 8
 
 export function parseFilters(params) {
   const page = parseInt(params.get('page') || '1', 10)
