@@ -88,3 +88,4 @@ src/
   App.jsx                  layout shell
   main.jsx                 routes
 ```
+# shopkart
